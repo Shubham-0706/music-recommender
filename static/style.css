@@ -1,0 +1,55 @@
+body{
+
+    background:#121212;
+    color:white;
+    font-family:Arial;
+    text-align:center;
+}
+
+.container{
+
+    margin-top:50px;
+}
+
+h1{
+
+    color:#1DB954;
+}
+
+select{
+
+    padding:12px;
+    width:300px;
+    border-radius:5px;
+    border:none;
+    margin:10px;
+}
+
+button{
+
+    padding:12px 20px;
+    border:none;
+    background:#1DB954;
+    color:white;
+    border-radius:5px;
+    cursor:pointer;
+}
+
+button:hover{
+
+    opacity:0.8;
+}
+
+.result{
+
+    margin-top:30px;
+}
+
+.result p{
+
+    background:#222;
+    width:300px;
+    margin:10px auto;
+    padding:10px;
+    border-radius:5px;
+}
